@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title></title>
+	<link href="https://barf.btxx.org/atom.xml" rel="self" />
+	<updated>2026-02-03T22:34:37Z</updated>
+	<author>
+		<name>nal888</name>
+	</author>
+	<id>https://barf.btxx.org,2024-01-19:default-atom-feed/</id>
+	<entry>
+		<title>Welcome to My Blog</title>
+		<content type="html">&lt;h1 id=&quot;welcometomyblog&quot;&gt;Welcome to My Blog&lt;/h1&gt;
+
+&lt;p&gt;2025&amp;#8211;01&amp;#8211;24&lt;/p&gt;
+
+&lt;p&gt;This is where I&amp;#8217;ll be posting my CTF writeups, HTB walkthroughs, and cybersecurity notes.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned!&lt;/p&gt;</content>
+		<link href="https://barf.btxx.org/welcome"/>
+		<id>https://barf.btxx.org/welcome</id>
+		<updated>2025-01-24T10:00:00Z</updated>
+		<published>2025-01-24T10:00:00Z</published>
+	</entry>
+</feed>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title></title>
+		<link>https://barf.btxx.org/rss.xml</link>
+		<description>Feed description here</description>
+		<lastBuildDate>Tue, 03 Feb 2026 11:34:37 +0000</lastBuildDate>
+		<pubDate>Tue, 03 Feb 2026 11:34:37 +0000</pubDate>
+		<generator>Custom RSS Generator</generator>
+		<ttl>1800</ttl>
+		<item>
+			<title>Welcome to My Blog</title>
+			<description>&lt;h1 id=&quot;welcometomyblog&quot;&gt;Welcome to My Blog&lt;/h1&gt;
+
+&lt;p&gt;2025&amp;#8211;01&amp;#8211;24&lt;/p&gt;
+
+&lt;p&gt;This is where I&amp;#8217;ll be posting my CTF writeups, HTB walkthroughs, and cybersecurity notes.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned!&lt;/p&gt;</description>
+			<link>https://barf.btxx.org/welcome</link>
+			<guid isPermaLink="false">https://barf.btxx.org/welcome</guid>
+			<pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+		</item>
+</channel>
+</rss>
